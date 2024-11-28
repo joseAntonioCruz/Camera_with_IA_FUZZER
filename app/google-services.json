@@ -1,0 +1,190 @@
+{
+  "project_info": {
+    "project_number": "980368415646",
+    "project_id": "ejemplo-6b2fa",
+    "storage_bucket": "ejemplo-6b2fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980368415646:android:d773a6a6d2febfe9fc948f",
+        "android_client_info": {
+          "package_name": "com.cursokotlin.locationconfiguration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980368415646-4tfudk1boskguh8ahq2t0q05noibdsfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdiZ909mMD9rntmZonUdLae6dAMKwTv0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980368415646-4tfudk1boskguh8ahq2t0q05noibdsfj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "980368415646-lgarrv0h0mjon34t77svmr86il8difmp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "G.ViperExampleGio"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980368415646:android:49296df3870b23b5fc948f",
+        "android_client_info": {
+          "package_name": "com.example.firebaseexampledatastore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980368415646-4tfudk1boskguh8ahq2t0q05noibdsfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdiZ909mMD9rntmZonUdLae6dAMKwTv0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980368415646-4tfudk1boskguh8ahq2t0q05noibdsfj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "980368415646-lgarrv0h0mjon34t77svmr86il8difmp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "G.ViperExampleGio"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980368415646:android:dbc3283ef8c4f831fc948f",
+        "android_client_info": {
+          "package_name": "com.fuzzerrat.demovision"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980368415646-4tfudk1boskguh8ahq2t0q05noibdsfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdiZ909mMD9rntmZonUdLae6dAMKwTv0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980368415646-4tfudk1boskguh8ahq2t0q05noibdsfj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "980368415646-lgarrv0h0mjon34t77svmr86il8difmp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "G.ViperExampleGio"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980368415646:android:f2ae9db157749651fc948f",
+        "android_client_info": {
+          "package_name": "com.utt.taller.ejemplo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980368415646-4tfudk1boskguh8ahq2t0q05noibdsfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdiZ909mMD9rntmZonUdLae6dAMKwTv0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980368415646-4tfudk1boskguh8ahq2t0q05noibdsfj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "980368415646-lgarrv0h0mjon34t77svmr86il8difmp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "G.ViperExampleGio"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980368415646:android:4c11f6036a4b31dffc948f",
+        "android_client_info": {
+          "package_name": "mx.fuzzer.rat.notificacionesejemplo2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980368415646-4tfudk1boskguh8ahq2t0q05noibdsfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdiZ909mMD9rntmZonUdLae6dAMKwTv0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980368415646-4tfudk1boskguh8ahq2t0q05noibdsfj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "980368415646-lgarrv0h0mjon34t77svmr86il8difmp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "G.ViperExampleGio"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
