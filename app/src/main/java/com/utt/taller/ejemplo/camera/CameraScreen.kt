@@ -1,6 +1,7 @@
 package de.yanneckreiss.mlkittutorial.ui.camera
 
 import android.content.Context
+import android.content.res.Resources.Theme
 import android.graphics.Color
 import android.view.ViewGroup
 import android.widget.LinearLayout
@@ -9,6 +10,7 @@ import androidx.camera.view.CameraController
 import androidx.camera.view.LifecycleCameraController
 import androidx.camera.view.PreviewView
 import androidx.compose.foundation.background
+import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.foundation.layout.fillMaxSize
@@ -91,7 +93,7 @@ private fun CameraContent(textRecognizerViewModel: TextRecognizerViewModel) {
             Text(
                 modifier = Modifier
                     .fillMaxWidth()
-                    .background(androidx.compose.ui.graphics.Color.White)
+                    .background(if(isSystemInDarkTheme())androidx.compose.ui.graphics.Color.DarkGray else androidx.compose.ui.graphics.Color.White)
                     .padding(16.dp),
                 text = detectedText2,
             )
